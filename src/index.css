@@ -1,0 +1,11 @@
+:root {
+  --focus: rgb(186, 73, 73);
+  --short-break: rgb(56, 133, 138);
+  --long-break: rgb(57, 112, 151);
+}
+
+body {
+  background-color: var(--focus);
+  margin: 0;
+  padding: 0;
+}

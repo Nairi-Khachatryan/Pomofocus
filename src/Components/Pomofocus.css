@@ -1,0 +1,17 @@
+.pomofocus {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.buttons-div{
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.count{
+  color: white;
+  font-size: 6rem;
+}
